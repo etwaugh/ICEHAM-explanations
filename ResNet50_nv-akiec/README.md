@@ -8,7 +8,7 @@ Epochs: 20
 
 Preprocessing: Only nv and akiec. used 5% of nv data for train
 
-98% train and 98% test accuracy
+96% train and 96% test accuracy
 
 ![image](https://github.com/etwaugh/ICEHAM-explanations/assets/114034917/8acbbb56-39ff-4455-9e7f-4d5689dbd443)
 
