@@ -18,3 +18,5 @@ Classification Report:
    macro avg       0.75      0.72      0.73      1002
 weighted avg       0.86      0.87      0.86      1002
 ```
+
+![image](https://github.com/etwaugh/ICEHAM-explanations/assets/114034917/441eed2f-8f5b-4d5a-9522-6cb7c51ccf14)
